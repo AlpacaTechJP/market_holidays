@@ -1,7 +1,7 @@
 import polars as pl
 import json
 
-expected_calendars = ["XNYS"]
+expected_calendars = ["XNYS", "XTKS"]
 
 
 def test_market_holidays_file():
