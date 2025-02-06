@@ -8,11 +8,13 @@ Holidays are based on [gerrymanoim/exchange_calendars](https://github.com/gerrym
 
 ## Limitation
 
-For XTKS holidays calendar, the dates for Spring Equinox Day and Autumn Equinox Day two years ahead in the calendar have not been formally decided yet.
+1. This calendar might not include holidays falling on Saturday and Sunday.
 
-This is because, as public holidays, the official decision for these dates is made when the Calendar Outline is published on the [official announcement site](https://eco.mtk.nao.ac.jp/koyomi/yoko/) on February 1st of the previous year.
+2. For XTKS holidays calendar, the dates for Spring Equinox Day and Autumn Equinox Day two years ahead in the calendar have not been formally decided yet.
 
-Annual year end check and revision for the next year holidays would be required to maintain this calendar.
+    This is because, as public holidays, the official decision for these dates is made when the Calendar Outline is published on the [official announcement site](https://eco.mtk.nao.ac.jp/koyomi/yoko/) on February 1st of the previous year.
+
+3. Annual year end check and revision for the next year holidays would be required to maintain this calendar.
 
 ## References
 
