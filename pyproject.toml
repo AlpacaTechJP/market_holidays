@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "market_holidays"
+version = "0.1.0"
+description = "Custom market holidays"
+authors = ["ping <ping@alpaca-tech.ai>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13.1"
+polars = "^1.21.0"
+
+[tool.poetry.group.dev.dependencies]
+black = "22.3.0"
+pytest = "^8.2.1"
+pytest-cov = "^5.0.0"
+pytest-xdist = "^3.6.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
